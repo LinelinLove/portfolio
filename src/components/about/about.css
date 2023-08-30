@@ -8,7 +8,8 @@
     background-color: var(--container-color);
     box-shadow: var(--shadow);
     border-radius: var(--border-radius);
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: 1fr;
+    /* grid-template-columns: repeat(2, 1fr); */
     column-gap: 1.875rem;
     align-items: flex-start;
     position: relative;
@@ -111,7 +112,7 @@
         border-right: 10px solid transparent;
         border-bottom: 10px solid #fff;
         left: 49%;
-        top: -20px;
+        top: -19px;
     }
 
     .about__img {

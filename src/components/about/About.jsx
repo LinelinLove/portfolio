@@ -1,6 +1,7 @@
 import React from 'react';
 import "./about.css";
 import Image from "../../assets/avatar-2.svg";
+import CV from "../../assets/CV_2023-08-30_Chrisline_LIN.pdf";
 import AboutBox from './AboutBox';
 
 const About = () => {
@@ -14,10 +15,10 @@ const About = () => {
         <div className="about__data grid">
           <div className="about__info">
             <p className="about__description">I am Chrisline Lin, web developper from Paris, France. I have rich experience in web site design and building and customization, also I am good at WordPress.</p>
-            <a href="" className="btn">Download CV</a>
+            <a href={CV} className="btn" download>Download CV</a>
           </div>
 
-          <div className="about__skills grid">
+          {/* <div className="about__skills grid">
 
             <div className="skills__data">
               <div className="skills__titles">
@@ -49,11 +50,12 @@ const About = () => {
               </div>
             </div>
 
-          </div>
+          </div> */}
+
         </div>
       </div>
 
-      <AboutBox />
+      {/* <AboutBox /> */}
 
     </section>
   )
