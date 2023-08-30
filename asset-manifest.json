@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.e11f4119.css",
-    "main.js": "/portfolio/static/js/main.f10b1a9f.js",
+    "main.js": "/portfolio/static/js/main.b2f786c7.js",
     "static/media/blog-2.svg": "/portfolio/static/media/blog-2.a17fe5c4c05ccd6e019484f9124acecf.svg",
     "static/media/blog-1.svg": "/portfolio/static/media/blog-1.7f5fb5b0228f104a981e9809017a1cb2.svg",
     "static/media/CV_2023-08-30_Chrisline_LIN.pdf": "/portfolio/static/media/CV_2023-08-30_Chrisline_LIN.b7dd4e89bad82afaec8d.pdf",
@@ -25,10 +25,10 @@
     "static/media/logo-c.svg": "/portfolio/static/media/logo-c.b0350b089611b79a48ad752902ce7647.svg",
     "index.html": "/portfolio/index.html",
     "main.e11f4119.css.map": "/portfolio/static/css/main.e11f4119.css.map",
-    "main.f10b1a9f.js.map": "/portfolio/static/js/main.f10b1a9f.js.map"
+    "main.b2f786c7.js.map": "/portfolio/static/js/main.b2f786c7.js.map"
   },
   "entrypoints": [
     "static/css/main.e11f4119.css",
-    "static/js/main.f10b1a9f.js"
+    "static/js/main.b2f786c7.js"
   ]
 }
