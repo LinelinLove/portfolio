@@ -88,12 +88,14 @@ button {
   cursor: pointer;
   border: none;
   outline: none;
+  user-select: none;
 }
 
 img {
   max-width: 100%;
   height: auto;
   vertical-align: middle;
+  user-select: none;
 }
 
 /* ========== reusable class ========== */
@@ -141,6 +143,7 @@ img {
   display: inline-block;
   background-color: var(--first-color);
   font-weight: var(--font-bold);
+  user-select: none;
 }
 
 @keyframes button-push {

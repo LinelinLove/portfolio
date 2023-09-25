@@ -55,6 +55,10 @@
     transition: .3s;
 }
 
+.nav__logo {
+    user-select: none;
+}
+
 @media screen and (max-width:1024px) {
     .aside {
         left: -110px;
